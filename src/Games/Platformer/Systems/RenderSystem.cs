@@ -1,7 +1,6 @@
 ﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using MonoGame.Extended;
-using MonoGame.Extended.Animations;
 using MonoGame.Extended.Entities;
 using MonoGame.Extended.Entities.Systems;
 using MonoGame.Extended.Sprites;

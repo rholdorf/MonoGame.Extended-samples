@@ -5,7 +5,6 @@ using MonoGame.Extended;
 using MonoGame.Extended.BitmapFonts;
 using MonoGame.Extended.Gui;
 using MonoGame.Extended.Gui.Controls;
-using MonoGame.Extended.Gui.Markup;
 using MonoGame.Extended.ViewportAdapters;
 
 namespace Gui
